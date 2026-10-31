@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+# linux-notes
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+记录我从零学 Linux 的过程：命令、报错、踩过的坑。
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 目录
+
+- `notes/` 学习笔记
+- `logs/` 报错日志
